@@ -1,4 +1,4 @@
-![](https://github.com/ShibaSec/ShibaInsta/media/logo.png)
+![](https://raw.githubusercontent.com/shibasec/shibainsta/main/media/logo.png)
 # ShibaInsta
 ## Author: @ShibaSec
 ### https://github.com/ShibaSec/ShibaInsta
